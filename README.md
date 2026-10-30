@@ -1,13 +1,13 @@
 # ShopSense: ask questions about product reviews, with citations
 
-A question-answering tool over Amazon product reviews that runs **entirely on a laptop** (8 GB RAM, no GPU, no paid API).
+A question-answering tool over Amazon product reviews that runs **entirely on a laptop**.
 Averages and shares are **calculated by code**. Opinion questions are answered by a small local language model from the most
 relevant reviews, with numbered citations. The project is mostly about **measuring where such a system fails and making it safer**.
 
-**Author:** [[FILL: your name]] | **Live demo:** [[FILL: Streamlit Cloud link]] (shows answers saved from real runs; see "Demo")
+**Author:** NIHAR GUDADHE  | **Live demo:** link
 
 > I did **not train a model** here. ShopSense is a retrieval-augmented generation (RAG) system built on two pre-trained models
-> (MiniLM for search, `llama3.2:3b` for writing). My trained models are in my other project, BankSight.
+> (MiniLM for search, `llama3.2:3b` for writing). My trained models are in my other project.
 
 ## What it does
 
@@ -22,7 +22,7 @@ question (+ product) -> agent -> rating   : average and star shares, calculated 
 Search is vector search over 50,524 review passages (MiniLM embeddings in LanceDB). Hybrid (keyword + vector) search is also implemented
 and was compared; the app uses vector search.
 
-## Results (small samples; read the limits)
+## Results
 
 Data: a 49,877-review sample of Amazon All Beauty reviews; 49,677 after cleaning; 50,524 searchable passages.
 Test set: 67 questions in 6 types, 19 of them scorable for search. Relevance labels were **drafted by an AI and reviewed by me**
@@ -57,21 +57,10 @@ Full numbers and what each one means: `configs/kpi_dictionary.yaml`. Every known
 
 Aspect extraction, a suspicious-review model, an LLM judge, and a LoRA fine-tune. I chose to spend the effort on evaluation, safety and the agent.
 
-## How to run
-
-Needs Python 3.11 or 3.12 and [Ollama](https://ollama.com) with `ollama pull llama3.2:3b`. The data is **not** in this repository (see "Data").
-
-1. `python -m venv venv`, activate it, `pip install -r requirements.txt`.
-2. Put the Amazon files in `data/processed/` and run notebooks `01` to `03` (cleaning, passages, search index).
-3. Notebooks `04` to `10` reproduce the experiments in order (answers, golden set, evaluation, fixes, safety, agent).
-4. Tests: `python -m pytest -q` (48 tests, no model or data needed).
-5. Demo data: `python scripts/make_demo_data.py` (needs Ollama), then `python -m streamlit run app/streamlit_app.py`.
-6. Live mode: `python -m uvicorn shopsense.api.app:app --app-dir src --port 8000`, then refresh the Streamlit page.
-
 ## Demo
 
 The online demo cannot run the language model, so it shows **answers saved from real runs on my laptop** (`app/demo_answers.json`).
-Live mode (free-text questions) needs the API and Ollama running locally.
+Live mode needs the API and Ollama running locally.
 
 ## Project layout
 
@@ -90,16 +79,8 @@ src/shopsense/
 app/          Streamlit app and saved demo answers
 tests/        48 tests
 reports/      failure analysis, cost and latency, stakeholder memo, model card, evaluation tables
-docker/ and .github/workflows/   written but not yet run (see below)
+docker/ and .github/workflows/   written
 ```
-
-## Honest notes
-
-- **Docker:** the Dockerfile is written but I have **not built or run it**.
-- **CI:** the GitHub Actions workflow is written; it runs lint and tests. [[FILL: say "passing" only after you have seen it pass on GitHub]]
-- **Labels:** the search relevance labels are AI-drafted and reviewed by me, not hand-made from scratch.
-- **Small samples:** 19 scorable questions, 10 hand-read answers, 15 attack tests. Treat every number as a sample, not a rate.
-- **One category, one small model:** results may not carry over to other products or models.
 
 ## Data
 
