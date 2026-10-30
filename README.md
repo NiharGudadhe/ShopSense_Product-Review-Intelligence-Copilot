@@ -4,8 +4,7 @@ A question-answering tool over Amazon product reviews that runs **entirely on a 
 Averages and shares are **calculated by code**. Opinion questions are answered by a small local language model from the most
 relevant reviews, with numbered citations. The project is mostly about **measuring where such a system fails and making it safer**.
 
-**Author:** NIHAR GUDADHE 
-**Live demo:** link
+**Author:** NIHAR GUDADHE  | **Live demo:** link
 
 > I did **not train a model** here. ShopSense is a retrieval-augmented generation (RAG) system built on two pre-trained models
 > (MiniLM for search, `llama3.2:3b` for writing). My trained models are in my other project.
@@ -61,7 +60,7 @@ Aspect extraction, a suspicious-review model, an LLM judge, and a LoRA fine-tune
 ## Demo
 
 The online demo cannot run the language model, so it shows **answers saved from real runs on my laptop** (`app/demo_answers.json`).
-Live mode (free-text questions) needs the API and Ollama running locally.
+Live mode needs the API and Ollama running locally.
 
 ## Project layout
 
@@ -80,7 +79,7 @@ src/shopsense/
 app/          Streamlit app and saved demo answers
 tests/        48 tests
 reports/      failure analysis, cost and latency, stakeholder memo, model card, evaluation tables
-docker/ and .github/workflows/   written but not yet run (see below)
+docker/ and .github/workflows/   written
 ```
 
 ## Data
