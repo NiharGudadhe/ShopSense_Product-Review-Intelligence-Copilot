@@ -4,7 +4,7 @@ A question-answering tool over Amazon product reviews that runs **entirely on a 
 Averages and shares are **calculated by code**. Opinion questions are answered by a small local language model from the most
 relevant reviews, with numbered citations. The project is mostly about **measuring where such a system fails and making it safer**.
 
-**Author:** NIHAR GUDADHE  | **Live demo:** link
+**Author:** NIHAR GUDADHE  | **Live demo:** https://nihargudadhe-shopsense-product-review-i-appstreamlit-app-128zcr.streamlit.app/
 
 > I did **not train a model** here. ShopSense is a retrieval-augmented generation (RAG) system built on two pre-trained models
 > (MiniLM for search, `llama3.2:3b` for writing). My trained models are in my other project.
