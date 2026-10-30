@@ -1,6 +1,6 @@
 # Cost and latency
 
-Hardware: laptop, 8 GB RAM, CPU only. Model: `llama3.2:3b` through Ollama (temperature 0, up to 250 answer tokens).
+Hardware: laptop CPU only. Model: `llama3.2:3b` through Ollama (temperature 0, up to 250 answer tokens).
 
 | Measure | Value | Source |
 |---|---|---|

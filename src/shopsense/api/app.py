@@ -1,14 +1,4 @@
 """ShopSense API (FastAPI).
-
-Run from the project folder:
-    python -m uvicorn shopsense.api.app:app --app-dir src --port 8000
-Then open http://localhost:8000/docs
-
-Endpoints
-    GET  /health            -> {"status": "ok", "products": N}
-    GET  /products?query=   -> products (with at least 10 reviews) whose title contains the query
-    POST /ask               -> {"question": ..., "asin": ..., "asin_b": optional} -> route, answer, sources, seconds
-
 Every request is appended to data/logs/requests.jsonl (question, route, seconds, refused) for monitoring.
 """
 import json

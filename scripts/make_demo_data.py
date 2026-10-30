@@ -1,10 +1,4 @@
 """Run the real agent on a few products and save the answers for the Streamlit demo (app/demo_answers.json).
-
-Run from the project folder, with Ollama running:
-    python scripts/make_demo_data.py
-
-Takes about 10 minutes. The online demo cannot run the model, so it shows these saved answers. Review text is shortened
-and cleaned with the safety guard before saving.
 """
 import json
 import sys

@@ -1,8 +1,3 @@
-# ShopSense API image. WRITTEN BUT NEVER BUILT OR RUN. Do not describe the project as containerised
-# until you have run:  docker build -f docker/Dockerfile -t shopsense .
-#
-# The image holds the code only. Data, the LanceDB index and Ollama stay outside:
-#   docker run -p 8000:8000 -v "%cd%/data:/app/data" -e OLLAMA_URL=http://host.docker.internal:11434 shopsense
 FROM python:3.11-slim
 
 WORKDIR /app

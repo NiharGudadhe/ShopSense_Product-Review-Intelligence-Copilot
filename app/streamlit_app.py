@@ -1,10 +1,3 @@
-"""ShopSense demo app (Streamlit).
-
-Run locally:   python -m streamlit run app/streamlit_app.py
-Two modes, chosen automatically:
-    LIVE  - the ShopSense API is running (python -m uvicorn shopsense.api.app:app --app-dir src --port 8000)
-    DEMO  - no API found: shows answers saved from real runs (app/demo_answers.json). Used on Streamlit Cloud.
-"""
 import json
 import os
 from pathlib import Path
