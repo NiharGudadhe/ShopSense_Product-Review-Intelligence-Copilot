@@ -1,0 +1,39 @@
+# ---- data ----
+data/
+*.parquet
+*.duckdb
+*.lance
+*.npy
+*.joblib
+
+# ---- the demo file IS committed ----
+!app/demo_answers.json
+
+# ---- secrets ----
+.env
+*.pem
+*.key
+secrets.toml
+.streamlit/secrets.toml
+
+# ---- python ----
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+reports/eval/*answers*.csv
+reports/eval/07_hand_read.csv
+reports/eval/08_attribution_check*.csv
+reports/agent/10_numeric_spot_check.csv
+reports/agent/10_llm_routes.csv
+reports/safety/09_false_positives.csv
+reports/safety/09_end_to_end.csv
+reports/safety/09_new_attacks_through_model.csv
+
+# ---- editor / OS ----
+.vscode/
+.DS_Store
+Thumbs.db

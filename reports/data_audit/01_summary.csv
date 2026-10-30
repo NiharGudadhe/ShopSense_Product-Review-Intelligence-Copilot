@@ -1,0 +1,13 @@
+measure,value
+reviews,49877
+products_in_table,24564
+products_with_reviews,24564
+first_review,NaT
+last_review,NaT
+avg_rating,4.02
+five_star_pct,58.3
+median_words,28.0
+under_5_words_pct,0.3
+identical_text_pct,0.18
+linked_to_product_pct,100.0
+looks_like_injection,5

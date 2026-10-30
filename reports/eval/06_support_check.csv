@@ -1,0 +1,70 @@
+id,support,sentence
+G003,0.25,Reviewers seem to have mixed opinions about the value for money of the SnozzlePro Universal Hair Dryer Nozzle Adapter [1][2][3].
+G003,0.22,"Some reviewers, like [1] and [4], mention that it doesn't fit their dryer, which may indicate a problem with the product's design or quality"
+G003,0.3,"On the other hand, [2], [3], and [6] express satisfaction with the product, stating that it fits their diffuser or dryer and works well."
+G003,0.25,"However, [5] expresses disappointment with the product's performance, stating that it won't hold their diffuser."
+G004,0.33,"Reviewers mention that the adapter fits some products, but not others [1][2][3]."
+G004,0.17,Some reviewers have issues with the adapter coming loose due to heat [1].
+G004,0.11,"However, others report that it fits and works well, even with blow dryers [2][5][6]."
+G004,0.33,One reviewer was unable to get it to fit their dryer [4].
+G008,0.42,"Reviewers have mixed opinions about the quality and durability of the Helen of Troy 1511 Brush Iron, White, 3/4 Inch Barrel [1][2][3][5][6]."
+G008,0.5,"Some reviewers, like [3] and [6], mention that it is a good value for the price and lasts for about a year, while others, like [2], report t"
+G008,0.17,"However, [5] notes that the product is still durable and long-lasting, despite being a different shape than expected."
+G009,0.1,"Reviewers say that the product offers good value for money, with some reviewers stating that it can be beaten for the price [1]."
+G009,0.67,"Others mention that it lasts about a year, which is worth the price [2]."
+G009,0.22,"However, one reviewer expresses disappointment that the product is not what they wanted, specifically the 1-inch size [4]."
+G009,0.11,"Another reviewer mentions that the product's design is different from their previous one, which may affect its value [5]."
+G009,0.43,"Additionally, one reviewer notes that the product does not heat up as they would have liked [6]."
+G013,0.33,"Some reviewers, like [1] and [6], mention that they don't like the smell, while others, like [3] and [4], find it pleasant."
+G013,0.17,"Reviewer [5] does not mention the scent at all, as they were only concerned with the shipping."
+G013,0.33,"Reviewer [2] also does not comment on the scent, stating that it's impossible to evaluate the benefits at the moment [2]."
+G014,0.2,The reviewers do not provide information about the ease of use of the product [1][2][3][4][5][6].
+G018,0.5,"Reviewers describe the scent of Murray & Lanman Florida Water Plastic Bottle 7.5 oz as ""old fashion"" [1], ""nice, gentle and unisex"" [2], and"
+G018,0.6,"However, some reviewers disagree, stating that it smells like ""dollar store cologne"" [3] and ""Jean Nate from the 1970s"" [5]."
+G018,0.5,"One reviewer also notes that it's a ""fresh scent that's not overpowering or strong"" [4]."
+G019,0.0,The reviewers do not mention the packaging of the Murray & Lanman Florida Water Plastic Bottle 7.5 oz [1][2][3][4][5][6].
+G023,0.25,"Reviewers mention that the scent is pleasant, with one reviewer stating it smells ""so good"" [1]."
+G023,0.43,"However, another reviewer expresses a wish for a ""clean scent"" [6]."
+G024,0.55,"Reviewers mention that the product arrived in a ""complete mess"" [5] and was ""busted open"" [2], indicating that the packaging is not reliable"
+G024,0.12,"However, one reviewer states that the product was ""packaged well"" [3], which contradicts the other two reviewers."
+G024,0.22,"Another reviewer mentions that they ""lay extra for a product"" [5], implying that they expected better packaging."
+G025,0.0,"Reviewers [1], [2], [5], and [6] do not mention veganism or cruelty-free certification, while reviewer [3] mentions a negative experience bu"
+G025,0.0,Reviewer [4] mentions a neutral experience but does not provide any information about the product's ingredients or certifications.
+G031,0.7,"Reviewers mention that the headbands are ""super soft"" [3] and ""thick and wide"" [4], indicating good quality."
+G031,0.45,"However, some reviewers mention that the headbands don't stay in place well [5] and one reviewer had to return them because they didn't stay"
+G031,0.22,"Another reviewer is very pleased with the quality, but notes that the headbands are designed to fit American heads [4]."
+G032,0.08,"Reviewers seem to be satisfied with the value for money of Yeshan bow Headbands, with most reviewers giving 5-star reviews [1], [2], [4], [5"
+G032,0.14,"However, one reviewer had a negative experience, stating that the headbands did not stay put [3]."
+G036,0.27,"Some reviewers, like [1] and [5], mention that it was a waste of money and didn't work as expected, while others, like [3] and [4], are sati"
+G036,0.33,"However, [6] mentions that the curls last for days, implying that the product is worth the investment."
+G036,0.14,"Overall, the reviews do not provide a clear consensus on the value for money [1][2][3][4][5][6]."
+G037,0.14,"Reviewers mention that the product is ""very hard to use"" [1], [3], and [5], indicating difficulty with the product."
+G037,0.33,"However, [6] advises to be patient and use one lock at a time, suggesting that with practice, it can be used effectively."
+G037,0.0,"Some reviewers, like [2], do not mention any issues with ease of use, but rather express overall satisfaction with the product."
+G041,0.06,Reviewers seem to have mixed opinions about the value for money of Sannysis Fashion Women Silver Flower Plated Crystal Rhinestone Stud Earri
+G041,0.46,"Some reviewers, like [1] and [4], mention that the earrings arrived broken or started falling apart quickly, which may indicate poor value f"
+G041,0.4,"On the other hand, [5] and [6] praise the earrings as ""very nice inexpensive"" and ""cute especially on little ones"", suggesting that they fee"
+G041,0.43,"[3] mentions that the color faded after 10 uses, but still praises the design."
+G042,0.5,"Some reviewers, like [2] and [5], mention that they are comfortable and have no skin irritation, indicating good quality."
+G042,0.39,"However, others, like [1], [3], [4], and [6], mention issues with the product, such as the design being different from the pictures, the col"
+G042,0.4,This suggests that the quality and durability of the earrings may vary [1][2][3][4][5][6].
+G046,0.0,Reviewers express mixed opinions about the quality and durability of Easy Feet Foot Cleaner [1].
+G046,0.5,"Some reviewers, like [1] and [4], mention issues with the product's design, such as the suction cups not sticking to tile and the pumice sto"
+G046,0.2,"However, other reviewers, like [3], [4], [5], and [6], praise the product's effectiveness and durability, with some even mentioning it's the"
+G046,0.2,There is no consistent agreement on the product's quality and durability [1].
+G047,0.11,Reviewers have mixed opinions about the value for money of Easy Feet Foot Cleaner [1].
+G047,0.33,"Some reviewers, like [3] and [4], mention that the product was defective and not worth the $25 investment [3][4]."
+G047,0.3,"On the other hand, [1] recommends using the site/app for future purchases, suggesting that the product may be a good value [1]."
+G047,0.0,"However, [2] explicitly states that they do not recommend the product due to its poor quality [2]."
+G051,0.25,"Some reviewers, like [1] and [4], find it very fragrant and pleasant, while others, like [2] and [6], mention that it's not their favorite s"
+G051,0.4,"However, [5] and [6] also mention that the scent is not overpowering and lasts all day."
+G051,0.43,"[6] even states that the scent remains ""original fresh"" throughout the day [2]."
+G052,0.29,Reviewers generally agree that the product has good quality and durability [1][2][3][4][5].
+G052,0.64,"Reviewer [4] mentions that it lasts all day with no problem, while reviewer [5] states that it lasts all day without the harmful chemicals o"
+G052,0.5,"Reviewer [6] notes that it doesn't last as long as their Secret, but they're not the same product."
+G052,0.29,There is no mention of the product being of poor quality or not lasting long [1][2][3][4][5].
+G056,0.5,"Some, like [1] and [2], dislike the smell, while others, like [4] and [6], find it pleasant once applied and absorbed."
+G056,0.38,"However, [3] and [5] express concerns about the scent, with [5] suggesting it may be due to the product's natural ingredients."
+G056,0.44,"[1] states it's ""absolutely not a good fragrance"", while [4] notes it's ""not liked"" but ""doesn't smell"" after application."
+G057,0.38,"Reviewers mention the product's effectiveness, fragrance, and smell, but not the skin reaction [1][2][3][4][5][6]."
+G065,0.0,The reviews do not say [1].

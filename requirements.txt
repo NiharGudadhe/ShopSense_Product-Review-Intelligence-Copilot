@@ -1,0 +1,24 @@
+# data and notebooks
+pandas
+numpy
+pyarrow
+ipykernel
+requests
+
+# search
+sentence-transformers
+lancedb
+rank-bm25
+
+# agent, API and app
+langgraph
+pydantic
+fastapi
+uvicorn
+httpx
+streamlit
+
+# tests and config
+pytest
+ruff
+pyyaml

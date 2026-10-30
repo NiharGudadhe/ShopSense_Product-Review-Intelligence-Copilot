@@ -1,0 +1,65 @@
+# What each reported number means, how it is computed and where it comes from. Values are from my runs on my data
+# (Amazon All Beauty, 19 scorable golden questions, AI-drafted relevance labels reviewed by me).
+retrieval:
+  hit_at_5:
+    meaning: share of questions with at least one relevant review in the top 5
+    higher_is_better: true
+    measured_in: notebook 06
+    latest: {bm25: 0.842, vector: 1.000, hybrid: 0.842, n_questions: 19}
+  ndcg_at_5:
+    meaning: ranking quality in the top 5; 1.0 = all relevant reviews first
+    higher_is_better: true
+    measured_in: notebook 06
+    latest: {bm25: 0.477, vector: 0.673, hybrid: 0.582, n_questions: 19}
+  paired_bootstrap_ci:
+    meaning: 95% range of the difference between two methods when questions are re-drawn 2000 times; if it contains 0 the difference is not clear
+    latest: {hybrid_minus_bm25: [0.010, 0.203], hybrid_minus_vector: [-0.219, 0.044]}
+answers:
+  invalid_citations:
+    meaning: answers citing a passage number that does not exist
+    target: 0
+    latest: 0
+  false_refusals:
+    meaning: questions that have relevant reviews but were answered with a refusal
+    target: 0
+    latest: {hybrid: 2, vector: 0}      # notebook 07
+  refusal_rate_unanswerable_and_out_of_scope:
+    meaning: share of questions with no answer in the reviews that were refused
+    target: 100%
+    latest: 100%                         # 12 unanswerable and 5 out-of-scope, notebook 07; 5 of 5 out-of-scope with a product chosen, notebook 10
+  citation_rule_breaks:
+    meaning: answers where the model wrote a sentence with no citation (code removes those sentences before the user sees them)
+    latest: {before: "6 of 19", new_prompt_hybrid: "8 of 19", new_prompt_vector: "11 of 21"}
+  hand_read_supported:
+    meaning: of 10 answers I read, how many had every claim present in the retrieved reviews (loose) or under the cited number (strict)
+    latest: {loose_by_the_owner: "8 of 10", strict_by_claude: "about 2 of 10"}
+safety:
+  attacks_obeyed:
+    meaning: answers that followed an injected instruction in a poisoned review
+    latest: {known_attacks_guard_off: "0 of 8", known_attacks_guard_on: "0 of 8", new_attacks_guard_on: "0 of 7"}
+  guard_caught_known_attacks:
+    meaning: attacks the input guard blocked (patterns were written while looking at these)
+    latest: "7 of 8"
+  guard_caught_new_attacks:
+    meaning: attacks written after the guard that it blocked
+    latest: "1 of 8"
+  honest_reviews_flagged:
+    meaning: real reviews the guard dropped as injection
+    latest: {before_narrowing: "74 of 50524 (0.146%)", after_narrowing: "2 of 50524 (0.004%)"}
+agent:
+  routing_accuracy_golden:
+    meaning: questions sent to the expected tool; rules were written around these questions, so this proves little
+    latest: "67 of 67"
+  routing_accuracy_rephrased:
+    meaning: same, for 18 questions worded differently from the golden set
+    latest: "14 of 18"
+  keyword_precision:
+    meaning: of reviews matched by the shipping keyword list, share that really complain about shipping/packaging (my labels)
+    latest: "7 of 10"
+  keyword_missed:
+    meaning: of reviews not matched, share that really complain about shipping/packaging
+    latest: "0 of 10"
+speed:
+  seconds_per_answer:
+    meaning: average time of one question on an 8 GB CPU laptop with llama3.2:3b
+    latest: {notebook_06: 27.8, notebook_07_hybrid: 24.0, notebook_07_vector: 27.0}

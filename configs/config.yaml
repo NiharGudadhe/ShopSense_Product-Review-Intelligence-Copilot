@@ -1,0 +1,42 @@
+# Reference copy of the settings ShopSense uses. The code keeps these as constants in the modules named below;
+# tests/test_config.py fails if this file and the code disagree.
+paths:
+  processed: data/processed          # reviews_clean.parquet, products_clean.parquet, passages.parquet
+  eval: data/eval                    # golden_set.csv, retrieval_labels.csv, injection_reviews.csv
+  lancedb: data/warehouse/lancedb    # vector table "passages"
+  logs: data/logs/requests.jsonl     # written by the API
+
+seed: 42
+
+cleaning:                            # notebook 02
+  min_words: 5
+  short_words: 10
+  min_reviews_per_product: 10
+  heavy_user_reviews: 20
+  long_review_words: 300
+  chunk_words: 200
+  chunk_overlap_words: 40
+
+retrieval:                           # src/shopsense/retrieval/hybrid.py
+  embedding_model: sentence-transformers/all-MiniLM-L6-v2
+  candidates_per_method: 50
+  rrf_k: 60
+  top_k: 6
+  method_used_by_app: vector         # hybrid is the library default; the app and agent pass method="vector" (notebook 07)
+
+llm:                                 # src/shopsense/llm/answer.py
+  model: llama3.2:3b
+  runtime: ollama
+  temperature: 0
+  context_tokens: 4096
+  max_answer_tokens: 250
+  min_reviews_for_product_answer: 10
+  refusal_text: The reviews do not say.
+
+safety:                              # src/shopsense/safety/guard.py
+  drop_injection_like_reviews: true
+  hide_emails_phones_links: true
+
+evaluation:                          # notebooks 06 and 07
+  top_k_metrics: 5
+  bootstrap_repeats: 2000

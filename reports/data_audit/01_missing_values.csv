@@ -1,0 +1,16 @@
+table,column,empty_rows,empty_pct
+reviews,rating,0,0.0
+reviews,title,0,0.0
+reviews,text,0,0.0
+reviews,asin,0,0.0
+reviews,parent_asin,0,0.0
+reviews,user_id,0,0.0
+reviews,helpful_vote,0,0.0
+reviews,verified_purchase,0,0.0
+products,parent_asin,0,0.0
+products,title,0,0.0
+products,main_category,0,0.0
+products,average_rating,0,0.0
+products,rating_number,0,0.0
+products,store,2032,8.27
+products,price,19879,80.93

@@ -1,0 +1,19 @@
+question,expected,route,correct
+How many stars does this product get on average?,rating,rating,True
+What is the mean star rating of this item?,rating,rating,True
+Tell me the average score customers gave.,rating,rating,True
+What is the typical rating?,rating,reviews,False
+What percent of negative reviews talk about delivery?,share,share,True
+How many of the 1-star reviews mention the smell?,share,share,True
+What proportion of low-rated reviews complain about the price?,share,share,True
+What fraction of bad reviews mention leaking?,share,reviews,False
+Do many unhappy customers mention packaging?,share,reviews,False
+eBoot 150 Pack Disposable Dual Sided Eyeshadow Brush Sponge Tipped Ova,compare,compare,True
+What is the difference between eBoot 150 Pack Disposable Dual Sided Ey,compare,compare,True
+Is eBoot 150 Pack Disposable Dual Sided Eyeshadow Brush Sponge Tipped ,compare,reviews,False
+What do customers think about the smell?,reviews,reviews,True
+Any complaints about it leaking?,reviews,reviews,True
+Is it worth the price?,reviews,reviews,True
+How does it feel on sensitive skin?,reviews,reviews,True
+Which stock should I buy?,refuse,refuse,True
+Can you diagnose my rash?,refuse,refuse,True

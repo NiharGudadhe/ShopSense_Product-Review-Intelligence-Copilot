@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "min_words": 5,
+    "short_words": 10,
+    "min_reviews_product": 10,
+    "heavy_user": 20,
+    "long_words": 300,
+    "chunk_words": 200,
+    "overlap_words": 40
+  },
+  "counts": {
+    "reviews_clean": 49677,
+    "products_clean": 24493,
+    "products_answerable": 548,
+    "passages": 50524
+  }
+}

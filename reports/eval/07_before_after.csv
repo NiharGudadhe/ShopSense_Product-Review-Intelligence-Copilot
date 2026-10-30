@@ -1,0 +1,4 @@
+run,false_refusals,answered_with_no_evidence,unanswerable_refused_%,out_of_scope_refused_%,answers,broke_citation_rule,invalid_citations,avg_seconds
+"before: old prompt, hybrid",2,2,100.0,100.0,19,6,0,27.8
+"after: new prompt, hybrid",2,2,,,19,8,0,24.0
+"after: new prompt, vector",0,2,100.0,100.0,21,11,0,27.0

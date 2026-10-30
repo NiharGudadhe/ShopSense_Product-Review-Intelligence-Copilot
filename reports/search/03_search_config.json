@@ -1,0 +1,12 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "max_seq_length": 256,
+  "passages_indexed": 50524,
+  "lancedb_table": "passages",
+  "metric": "cosine",
+  "bm25": "rank_bm25.BM25Okapi over product title + review title + text",
+  "fusion": "reciprocal rank fusion",
+  "rrf_k": 60,
+  "candidates_per_method": 50
+}

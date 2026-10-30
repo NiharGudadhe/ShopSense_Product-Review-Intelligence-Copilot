@@ -1,0 +1,5 @@
+step,reviews_left,dropped
+start,49877,
+drop under 5 words,49737,140.0
+drop exact duplicate text,49685,52.0
+drop reviews with no named product,49677,8.0

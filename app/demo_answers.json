@@ -1,0 +1,463 @@
+{
+ "made_on": "2026-10-29",
+ "products": [
+  {
+   "asin": "B01N4885PD",
+   "title": "Helen of Troy 1511 Brush Iron, White, 3/4 Inch Barrel"
+  },
+  {
+   "asin": "B06VWPZN56",
+   "title": "DMSO Cream With Aloe Vera - Lavender Scented, Made With 99.9% Pure Pharmaceutical grade DMSO - 70% DMSO/30% Aloe Vera, Made in USA for Live Better Naturals 4 oz"
+  },
+  {
+   "asin": "B06XK5RJMR",
+   "title": "eBoot 150 Pack Disposable Dual Sided Eyeshadow Brush Sponge Tipped Oval Makeup Applicator (Black)"
+  },
+  {
+   "asin": "B072KGXRV4",
+   "title": "eBoot 2 Pieces Soft Nail Art Dust Remover Powder Brush Cleaner for Acrylic and Makeup Powder Blush Brushes (Pink, Purple)"
+  },
+  {
+   "asin": "B07X8Z9W22",
+   "title": "SnozzlePro Universal Hair Dryer Nozzle Adapter - Fits Xtava Black Orchid Diffuser, Replacement Concentrators and Blow Dryers with a Diameter 1.5 Inch to 2.25 Inch - Prevents Attachment Pop-Offs"
+  },
+  {
+   "asin": "B08DKG8TJJ",
+   "title": "[5 PCS]3D Face Bracket,Face Breathe Cup,Reusable Cool Stand Insert Turtle to Keep Fabric Off,Clear"
+  },
+  {
+   "asin": "B097BSKSQW",
+   "title": "Verb Ghost Shampoo & Conditioner Duo \u2013 Vegan Shampoo and Conditioner Set \u2013\u2013 Weightless, Anti-Frizz Hydrating Shampoo and Conditioner Promotes Shine and Strength"
+  },
+  {
+   "asin": "B0BN113VWD",
+   "title": "B.O.B BARS OVER BOTTLES Solid Conditioner Bar for Balanced Moisture| Oily Hair | Hair Care, Ideal Ph Balance | Natural, Vegan | Eco-friendly, Sustainable, Plastic Free | Waterless & Zero Waste"
+  },
+  {
+   "asin": "B0BN12F234",
+   "title": "B.O.B BARS OVER BOTTLES Moisturizing Shampoo Bar | For Curly Hair | Hair Care, Ideal Ph Balance |Natural, Vegan | Eco-friendly, Sustainable, Plastic Free | Waterless & Zero Waste"
+  },
+  {
+   "asin": "B0C1ND3FVR",
+   "title": "Murray & Lanman Florida Water Plastic Bottle 7.5 oz"
+  }
+ ],
+ "examples": [
+  {
+   "asin": "B07X8Z9W22",
+   "asin_b": "",
+   "question": "What is the average rating?",
+   "route": "rating",
+   "answer": "The average rating is 3.91 from 33 reviews (1 star 9.1%, 2 star 6.1%, 3 star 15.2%, 4 star 24.2%, 5 star 45.5%).",
+   "sources": []
+  },
+  {
+   "asin": "B07X8Z9W22",
+   "asin_b": "",
+   "question": "What share of the 1-2 star reviews mention shipping or packaging?",
+   "route": "share",
+   "answer": "0.0% of the 5 reviews with 1 to 2 stars (0 reviews) contain a word about shipping or packaging. This is a keyword match, not a reading of each review.",
+   "sources": []
+  },
+  {
+   "asin": "B07X8Z9W22",
+   "asin_b": "",
+   "question": "What do reviewers say about the scent?",
+   "route": "reviews",
+   "answer": "The reviews do not say anything about the scent.",
+   "sources": [
+    "I thought it was going to be a bit harder to apply, it did take me two goes, but I was able to get it on my Orchid without too much hassle. My dryer is a Babyliss Pro Portofino Titanium (I hope those are all the right words in the right order) and I couldn't find any reviews anywhere from people who",
+    "Pros: definitely keeps nozzle on, gets a bit hot Cons: you have to be sure vent holes are not covered by pushing it on too snug Its heavy...adds weight ti hairdrier...my sr mom couldn't use it for that reason. I make it work but its heavier. That makes styling harder",
+    "This little gadget made me love my favorite and very expensive dryer even more! I love my hair dryer (L'ange Styliste Luxe) sooooooo much but the diffuser it came with is no match for my long curly hair! The dryer is too powerful for it and ends up just tangling my hair into a frizzy mess. However, ",
+    "I have a pretty basic blow dryer. It's a standard size. I cannot for the life of me get this on my dryer. Also I know a lot of people buy this specifically for the Dyson and the Black Orchid diffuser. I ended up returning my Dyson but still wanted to use this on the Black Orchid and my regular dryer",
+    "It keeps popping off the diffuser end. I have the small end attached on the Black Orchid diffuser side and the big end attached to my Infinity Pro Conair dryer. Technically this combo should work but it keeps popping off the diffuser. I use only the low settings on heat and speed but it still slowly",
+    "It kept popping off. You have to wait for it to cool down before reapplying. Kinda tedious. It still did a great job drying my hair with the diffuser"
+   ]
+  },
+  {
+   "asin": "B07X8Z9W22",
+   "asin_b": "",
+   "question": "What do reviewers say about the quality and durability?",
+   "route": "reviews",
+   "answer": "Reviewers mention that the SnozzlePro attachment can be prone to popping off, especially with long use or high heat settings [3]. However, some reviewers report that it works well and lasts a long time, with one reviewer mentioning that it's \"extremely satisfied\" with its performance [1]. Another reviewer received a tip from the inventor that helped improve the attachment's stability [2].",
+   "sources": [
+    "This little gadget made me love my favorite and very expensive dryer even more! I love my hair dryer (L'ange Styliste Luxe) sooooooo much but the diffuser it came with is no match for my long curly hair! The dryer is too powerful for it and ends up just tangling my hair into a frizzy mess. However, ",
+    "I got this to help me attach my Black Orchid Diffuser to my Babyliss Portofino Dryer. It works great, but it will eventually fall off if I have to dry for a long time - it gets loose with the heat. It doesn\u2019t fall off every time, but I make sure it is secure before drying. It takes forever to dry my",
+    "It keeps popping off the diffuser end. I have the small end attached on the Black Orchid diffuser side and the big end attached to my Infinity Pro Conair dryer. Technically this combo should work but it keeps popping off the diffuser. I use only the low settings on heat and speed but it still slowly",
+    "I thought it was going to be a bit harder to apply, it did take me two goes, but I was able to get it on my Orchid without too much hassle. My dryer is a Babyliss Pro Portofino Titanium (I hope those are all the right words in the right order) and I couldn't find any reviews anywhere from people who",
+    "Pros: definitely keeps nozzle on, gets a bit hot Cons: you have to be sure vent holes are not covered by pushing it on too snug Its heavy...adds weight ti hairdrier...my sr mom couldn't use it for that reason. I make it work but its heavier. That makes styling harder",
+    "I have a pretty basic blow dryer. It's a standard size. I cannot for the life of me get this on my dryer. Also I know a lot of people buy this specifically for the Dyson and the Black Orchid diffuser. I ended up returning my Dyson but still wanted to use this on the Black Orchid and my regular dryer"
+   ]
+  },
+  {
+   "asin": "B07X8Z9W22",
+   "asin_b": "",
+   "question": "Write me a poem about the ocean.",
+   "route": "reviews",
+   "answer": "The reviews do not say.",
+   "sources": [
+    "Not a fan. It constantly falls off.",
+    "Still doesn\u2019t fit my dryer lol. Will end up purchasing a new dryer \ud83e\udee0",
+    "Fits like a glove on the Black Orchid Hair Diffuser! Very happy with this adapter!",
+    "Love me diffuser but couldn\u2019t fit on blow dryer..until I got this!",
+    "The SNOZZLE is a good idea, in concept, but in reality it won't hold my diffuser. I would not purchase again.",
+    "It kept popping off. You have to wait for it to cool down before reapplying. Kinda tedious. It still did a great job drying my hair with the diffuser"
+   ]
+  },
+  {
+   "asin": "B01N4885PD",
+   "asin_b": "",
+   "question": "What is the average rating?",
+   "route": "rating",
+   "answer": "The average rating is 3.37 from 73 reviews (1 star 27.4%, 2 star 9.6%, 3 star 2.7%, 4 star 19.2%, 5 star 41.1%).",
+   "sources": []
+  },
+  {
+   "asin": "B01N4885PD",
+   "asin_b": "",
+   "question": "What share of the 1-2 star reviews mention shipping or packaging?",
+   "route": "share",
+   "answer": "0.0% of the 27 reviews with 1 to 2 stars (0 reviews) contain a word about shipping or packaging. This is a keyword match, not a reading of each review.",
+   "sources": []
+  },
+  {
+   "asin": "B01N4885PD",
+   "asin_b": "",
+   "question": "What do reviewers say about the scent?",
+   "route": "reviews",
+   "answer": "The reviews do not say anything about the scent of the Helen of Troy 1511 Brush Iron.",
+   "sources": [
+    "Nice quality brush iron (1.5 inch barrel). Haven't had any issues with hair being caught as other reviewers have mentioned. Leaves hair nice and smooth (I have medium length slightly wavy and medium thickness hair). After a year, the bristles did start breaking and I'll probably need a new one soon,",
+    "I have several hot brushes, but most are hot air. I wanted to try this concept for quick style touchups. It doesn't work nearly as well as the hot air brushes, doesn't get that hot, and the styling doesn't last for me--and my hair curls quite easily. I just don't use it, but always go back to my old",
+    "Although I keep coming back to this exact same Helen of Troy 1 1/2 inch blow dryer brush I have to say it gets frustrating when it suddenly overheats. Usually after about a year it will start to overheat on me so I can't turn it off and then turn it back on again. Otherwise I love this product for m",
+    "I agree that it is hard to find this kind of heating iron with the brush teeth, so I ordered this thinking it would be more up to date than the v. old slow-to-heat conair I have. well, this Helen of Troy heating iron is not any better than the old ones I have. it is sloooow to heat up !!! it also fe",
+    "This is truly the best curling iron. I have been a fan of the bristle curling iron for many years. Appparently I am not alone. Don't know why stores stopped selling them. That being said, Helen of Troy is the best bang for the buck. It's long bristles grab my hair very easily and the one inch barrel",
+    "I discovered this brush iron at least 15 years ago and have been using it (and replacements) for all these years to finish off my hair after I dry it with a dryer. It is NOT a dryer...rather a hair curling or straightening out iron for your hair depending on what type of hair you have and style you "
+   ]
+  },
+  {
+   "asin": "B01N4885PD",
+   "asin_b": "",
+   "question": "What do reviewers say about the quality and durability?",
+   "route": "reviews",
+   "answer": "Reviewers mention that the product is not professional grade, feels cheaper, and has a plastic cap that is \"skimpy\" [2]. Some reviewers also mention that the product stopped working after a short period of time, with one reviewer stating it died after less than 2 months of use [4]. Another reviewer mentions that the bristles broke off easily due to heat, and they are now using a shorter bristle length, which makes it easy to burn hands [5]. One reviewer explicitly states that the product is not a marcel iron and does not work [6].",
+   "sources": [
+    "It is not professional grade as it states..burnt my hand a few times..",
+    "I agree that it is hard to find this kind of heating iron with the brush teeth, so I ordered this thinking it would be more up to date than the v. old slow-to-heat conair I have. well, this Helen of Troy heating iron is not any better than the old ones I have. it is sloooow to heat up !!! it also fe",
+    "was good until it stopped working. Used every day, and stopped working after 6 months. Lights up, but does not get hot. For the price, should last longer than that.",
+    "Died after less than 2 months of use. Don't waste your money.",
+    "Edited 5/13/2016: I've used this product for years and it worked great with longer bristles. It always had a tendency for the bristles to get brittle due to the heat of the curling iron,, and then the bristles break off very easily. The last two I purchased, the bristles starting breaking off within",
+    "As for a marcel iron, it is NOT. The handle doesn't turn therefore it doesn't work. Do not buy, it shouldn't even have one star!"
+   ]
+  },
+  {
+   "asin": "B01N4885PD",
+   "asin_b": "",
+   "question": "Write me a poem about the ocean.",
+   "route": "reviews",
+   "answer": "The reviews do not say.",
+   "sources": [
+    "I used it to add a bit of wave to my otherwise straight hair as soon as I received it. Easy to handle(no burnt fingers) and actually a difference between high and low so no temp stress to my tress, yayyy",
+    "The curling brush was great! It made me beautiful again!",
+    "Arrived sooner than I expected Good, basic curling iron.",
+    "I am disappointed in it. I have a Conair bristle brush that works very well but it is larger. My hair is short and coarse so I thought the 1/2 inch brush would do well. There do not seem to be enough bristles on the brush to grab hair. I do not recommend it.",
+    "Not hot enough to keep a curl! Sorry",
+    "I returned this item because although I have short hair this curling iron did not work well for me. I"
+   ]
+  },
+  {
+   "asin": "B06VWPZN56",
+   "asin_b": "",
+   "question": "What is the average rating?",
+   "route": "rating",
+   "answer": "The average rating is 4.1 from 39 reviews (1 star 12.8%, 2 star 0.0%, 3 star 10.3%, 4 star 17.9%, 5 star 59.0%).",
+   "sources": []
+  },
+  {
+   "asin": "B06VWPZN56",
+   "asin_b": "",
+   "question": "What share of the 1-2 star reviews mention shipping or packaging?",
+   "route": "share",
+   "answer": "20.0% of the 5 reviews with 1 to 2 stars (1 reviews) contain a word about shipping or packaging. This is a keyword match, not a reading of each review.",
+   "sources": []
+  },
+  {
+   "asin": "B06VWPZN56",
+   "asin_b": "",
+   "question": "What do reviewers say about the scent?",
+   "route": "reviews",
+   "answer": "Reviewers say that the scent is pleasant, with some reviewers mentioning that it's not overpowering [1]. One reviewer prefers the lavender scent over other options, while another reviewer mentions that it's a nice change from the garlic odor of other DMSO products [4]. However, one reviewer mentions that they are not a fan of lavender and prefers a scent-free product [2].",
+   "sources": [
+    "Just received this so i havent used yet but honestly I am not a fan of Lavendar but this really smells good. Not over powering like some. I cant even use some because of the smells. Will update after use. I received this for a discount for my honest review",
+    "This product would be even better if it did not have a scent.",
+    "I first read about DMSO as a pain reliever on a NIH website, it having being tested for pain resultant of a nerve disease. It showed great promise and was determined effective. So onto an Amazon search. My husband loves it. He uses it twice a day on his knee. He was skeptical at first (laughing at t",
+    "I have used DMSO before and the smell of garlic was extremely offensive. This one has a lovely lavender scent that is very nice. I haven't used it long enough to be able to say if I can tell how well it works.",
+    "We like the lavender scent more than the rose scent. Works well in combination with other topicals. Haven\u2019t tried it alone.",
+    "Don't understand \"flavor\" question, but the scent is lovely. I did not find this to lessen the pain in my knee like a cbd product does."
+   ]
+  },
+  {
+   "asin": "B06VWPZN56",
+   "asin_b": "",
+   "question": "What do reviewers say about the quality and durability?",
+   "route": "reviews",
+   "answer": "Reviewers mention that the product arrived on time and undamaged [1], but disagree on the actual percentage of DMSO in the product. Reviewer [1] states it's not truly 70% DMSO, while reviewer [3] mentions the product is made with 99.9% pure pharmaceutical-grade DMSO. Reviewer [4] had no pain relief after using the product, which may indicate durability issues.",
+   "sources": [
+    "Item arrived on time and undamaged. Although the big letters say it is 70%, when you read the finer print as to the ingedients, it is not truly 70% DMSO of the jar contents.",
+    "Just received this so i havent used yet but honestly I am not a fan of Lavendar but this really smells good. Not over powering like some. I cant even use some because of the smells. Will update after use. I received this for a discount for my honest review",
+    "I first read about DMSO as a pain reliever on a NIH website, it having being tested for pain resultant of a nerve disease. It showed great promise and was determined effective. So onto an Amazon search. My husband loves it. He uses it twice a day on his knee. He was skeptical at first (laughing at t",
+    "Rubbed on sore right knee, and sore left knee. Repeat four times two hours apart, no pain relief at all",
+    "This is my third day of applying to my knees (3 times a day) and am noticing a difference. So far no garlic taste or other unpleasant side effects. Will update again. I have a book on DMSO and had purchased pure DMSO a year ago but have been afraid to use because I had to go to work and be around ot",
+    "Gives moderate pain relief and the texture and scent are nice."
+   ]
+  },
+  {
+   "asin": "B06VWPZN56",
+   "asin_b": "",
+   "question": "Write me a poem about the ocean.",
+   "route": "reviews",
+   "answer": "The reviews do not say.",
+   "sources": [
+    "Works on pain. Smells pleasant.",
+    "it gives pain relief for bone on bone shoulder pain. I will buy Again!",
+    "Works great got a hrs and pains. Doesn\u2019t stain or smell bad . Light and effective",
+    "i don't like the smell this product definitely takes pain away temporarily",
+    "I like it ...... fast shipping 10 plus +++++++",
+    "Sweet! I was recommended this product by a Vet that recently recovered from shoulder surgery. GREAT."
+   ]
+  },
+  {
+   "asin": "B0C1ND3FVR",
+   "asin_b": "",
+   "question": "What is the average rating?",
+   "route": "rating",
+   "answer": "The average rating is 3.81 from 32 reviews (1 star 18.8%, 2 star 3.1%, 3 star 6.2%, 4 star 21.9%, 5 star 50.0%).",
+   "sources": []
+  },
+  {
+   "asin": "B0C1ND3FVR",
+   "asin_b": "",
+   "question": "What share of the 1-2 star reviews mention shipping or packaging?",
+   "route": "share",
+   "answer": "14.3% of the 7 reviews with 1 to 2 stars (1 reviews) contain a word about shipping or packaging. This is a keyword match, not a reading of each review.",
+   "sources": []
+  },
+  {
+   "asin": "B0C1ND3FVR",
+   "asin_b": "",
+   "question": "What do reviewers say about the scent?",
+   "route": "reviews",
+   "answer": "One reviewer is allergic to the scent, while another finds it wonderful when dabbed behind the ears [1][2][3][4][5].",
+   "sources": [
+    "No issues with shipping, packaging, etc. The product arrived new and in expected condition. This product to me was very medicinal smelling and I just couldn't bring myself to use it. I tested a small splash on my hands and I really just didn't like the smell. I can see how others may like this produ",
+    "Really does remind you of the wet parts of Florida. Once the alcohol evaporates, the scent is nice. I can't seem to smell it beyond 45 minutes or so, so you'll have to re-apply it often if you're using it for the scent. Personally, I like douse my pillows and blankets with it more than wear it on my",
+    "I don't know quite what to think of this fragrance. It's VERY strong, and smells like a mixture of camphor, clove, orange, and a subtle floral hint. It's not that it smells bad--- quite the contrary. But it will open up your sinuses for sure! :)",
+    "I was curious about what this would smell like. I really enjoy it! It's got a strong citrus-spice smell that's wonderful when dabbed behind the ears.",
+    "Turns out I'm allergic to it--probably some artificial scent in it.",
+    "I liked this \"old fashion\" scent very much."
+   ]
+  },
+  {
+   "asin": "B0C1ND3FVR",
+   "asin_b": "",
+   "question": "What do reviewers say about the quality and durability?",
+   "route": "reviews",
+   "answer": "Reviewers mention that the product arrived in good condition with no leaks [1] and was new and in expected condition [3]. Reviewer [4] also mentions that the product is inexpensive and ships right to your house.",
+   "sources": [
+    "So far so good. I have nothing to compare the product to so its hard to create a specific review. The smell is nice, the bottle arrived in good condition with no leaks & it works well for what I purchased it for. Would buy again.",
+    "I wanted to try this because it was one of Lucille Ball's favorites. In fact, it was the last thing she asked for before she died, which is what made it so intriguing to me. It is nice, but not for me. More like a man's after shave than a woman's fragrance.",
+    "No issues with shipping, packaging, etc. The product arrived new and in expected condition. This product to me was very medicinal smelling and I just couldn't bring myself to use it. I tested a small splash on my hands and I really just didn't like the smell. I can see how others may like this produ",
+    "I've had more alcohol heavy florida waters that are crisper as an aftershave. This is the do-everything product we latinos have kept secret for years. Can be used as an aftershave, deoderant, cologne or cleaning product.... and supposedly it brings good luck too...but I've had plenty of good and bad",
+    "This is real magick right here...",
+    "Really does remind you of the wet parts of Florida. Once the alcohol evaporates, the scent is nice. I can't seem to smell it beyond 45 minutes or so, so you'll have to re-apply it often if you're using it for the scent. Personally, I like douse my pillows and blankets with it more than wear it on my"
+   ]
+  },
+  {
+   "asin": "B0C1ND3FVR",
+   "asin_b": "",
+   "question": "Write me a poem about the ocean.",
+   "route": "reviews",
+   "answer": "The reviews do not say.",
+   "sources": [
+    "A light, refreshing scent. Unfortunately doesn't last long; however, if it did then it wouldn't be light! I will buy again.",
+    "Alcohol , water, 'fragrance', chemicals. Smells like Jean Nate from the 1970s.",
+    "To me, this smells like an old-timey soda, like Dr. Pepper or Coca-Cola. A mix of sweet mysterious spices with light floral notes. Maybe that's why it's so refreshing on a hot summer day, although I think you could splash it on any time of year. The smell fades quickly, after that you'll just get a ",
+    "Really does remind you of the wet parts of Florida. Once the alcohol evaporates, the scent is nice. I can't seem to smell it beyond 45 minutes or so, so you'll have to re-apply it often if you're using it for the scent. Personally, I like douse my pillows and blankets with it more than wear it on my",
+    "Familiar smell. Love it. I got my first bottle at Hongkong. So happy found it on Amazon.",
+    "I was curious about what this would smell like. I really enjoy it! It's got a strong citrus-spice smell that's wonderful when dabbed behind the ears."
+   ]
+  },
+  {
+   "asin": "B097BSKSQW",
+   "asin_b": "",
+   "question": "What is the average rating?",
+   "route": "rating",
+   "answer": "The average rating is 3.85 from 26 reviews (1 star 19.2%, 2 star 3.8%, 3 star 11.5%, 4 star 3.8%, 5 star 61.5%).",
+   "sources": []
+  },
+  {
+   "asin": "B097BSKSQW",
+   "asin_b": "",
+   "question": "What share of the 1-2 star reviews mention shipping or packaging?",
+   "route": "share",
+   "answer": "0.0% of the 6 reviews with 1 to 2 stars (0 reviews) contain a word about shipping or packaging. This is a keyword match, not a reading of each review.",
+   "sources": []
+  },
+  {
+   "asin": "B097BSKSQW",
+   "asin_b": "",
+   "question": "What do reviewers say about the scent?",
+   "route": "reviews",
+   "answer": "Reviewers mention that the scent is not strong, with one reviewer stating it's \"not strong\" [1]. Another reviewer wishes it had a \"clean scent\" [2].",
+   "sources": [
+    "I had to change up my hair care because my old stuff started making my hair fall out so bad. i was sent to this brand on a recommendation from a hair stylist. i purged my hair twice, then finally got to use this in its glory, and it is nice. the scent is not strong, it is easy to wash and condition.",
+    "The first time I used Verb shampoo and conditioner, my hair was soft and moisturized. The second time not as much but way better than my other brands. Third time my hair improved immensely. I only wished it had a clean scent.",
+    "One of my favorite shampoos ever. Smells so good. My hairstylist recommended .",
+    "I went from using Pureology on a regular basis, to switching to this as I am now on a budget. This product is DEFINITLEY safe if you are wanting to stray away from all of the harsh chemicals and stripping properties that are in Pantene/Dove/Herbal Escenses. I have a full head of blonde highlights an",
+    "I love verb! It works great on my color treated oily hair. Took me from having to wash my hair every day to getting by with Every 2-3 days. It\u2019s a really great product!",
+    "I\u2019m pretty picky with my shampoo/conditioner and I REALLY like this stuff. I don\u2019t feel that it\u2019s drying, it leaves me hair feeling stronger/thicker than before washing. Definitely recommend! Super glad I was given a free sample of this which lead me to buy it."
+   ]
+  },
+  {
+   "asin": "B097BSKSQW",
+   "asin_b": "",
+   "question": "What do reviewers say about the quality and durability?",
+   "route": "reviews",
+   "answer": "Reviewers mention that the product is \"DEFINITLEY safe\" [1] and \"nice\" [2], but also that it's \"not the worst, not the best\" [3] and \"not great\" [5]. Some reviewers experienced issues with packaging, with one reviewer stating that the product arrived \"busted open and a mess\" [4] and another reviewer saying that the item came in a \"complete mess\" [6].",
+   "sources": [
+    "I went from using Pureology on a regular basis, to switching to this as I am now on a budget. This product is DEFINITLEY safe if you are wanting to stray away from all of the harsh chemicals and stripping properties that are in Pantene/Dove/Herbal Escenses. I have a full head of blonde highlights an",
+    "I had to change up my hair care because my old stuff started making my hair fall out so bad. i was sent to this brand on a recommendation from a hair stylist. i purged my hair twice, then finally got to use this in its glory, and it is nice. the scent is not strong, it is easy to wash and condition.",
+    "Not the worst, not the best. Seems a little heavy. Won\u2019t repurchase.",
+    "I love this product but it arrived busted open and a mess. Not packaged well",
+    "I won't be purchasing this shampoo again. It's not bad, but it's not great either - wasn't any better than a cheap bottle of Suave. In fact, I think my hair looks coarser after using Verb Ghost. The search continues.",
+    "Item came in a complete mess . Sucks when you lay extra for a product and half the product is spilled all over !"
+   ]
+  },
+  {
+   "asin": "B097BSKSQW",
+   "asin_b": "",
+   "question": "Write me a poem about the ocean.",
+   "route": "reviews",
+   "answer": "The reviews do not say.",
+   "sources": [
+    "One of my favorite shampoos ever. Smells so good. My hairstylist recommended .",
+    "I love verb! It works great on my color treated oily hair. Took me from having to wash my hair every day to getting by with Every 2-3 days. It\u2019s a really great product!",
+    "I had to change up my hair care because my old stuff started making my hair fall out so bad. i was sent to this brand on a recommendation from a hair stylist. i purged my hair twice, then finally got to use this in its glory, and it is nice. the scent is not strong, it is easy to wash and condition.",
+    "I bought this hoping is would be good for my hair and help my color but my hair feels exactly the same as if I use any other shampoo and conditioner and my dye came out faster than it ever has. I dyed my hair red a week ago and it\u2019s pink or even blonde in most places. very very disappointed do not w",
+    "My hair has never looked or felt this healthy, soft, shiny and stayed clean for this long. I highly recommend this product. I use ghost oil when I blow dry. I\u2019ll definitely order more Verb products soon.",
+    "Favorite product! A lot goes a long ways. Can go a few days with out washing. And great for thin hair, doesn\u2019t weigh it down. Conditioner is ver very moisturizing."
+   ]
+  },
+  {
+   "asin": "B08DKG8TJJ",
+   "asin_b": "",
+   "question": "What is the average rating?",
+   "route": "rating",
+   "answer": "The average rating is 3.93 from 30 reviews (1 star 6.7%, 2 star 13.3%, 3 star 13.3%, 4 star 13.3%, 5 star 53.3%).",
+   "sources": []
+  },
+  {
+   "asin": "B08DKG8TJJ",
+   "asin_b": "",
+   "question": "What share of the 1-2 star reviews mention shipping or packaging?",
+   "route": "share",
+   "answer": "0.0% of the 6 reviews with 1 to 2 stars (0 reviews) contain a word about shipping or packaging. This is a keyword match, not a reading of each review.",
+   "sources": []
+  },
+  {
+   "asin": "B08DKG8TJJ",
+   "asin_b": "",
+   "question": "What do reviewers say about the scent?",
+   "route": "reviews",
+   "answer": "The reviews do not say anything about the scent of the product.",
+   "sources": [
+    "Just wow!!!! What a difference this makes. I\u2019m able to breathe better. No more moistened masks touching my face! Very soft and flexible!! Does not irritate skin at all. You don\u2019t even know it\u2019s there.",
+    "I tried to give these a chance even after how i felt how very thin and cheap feeling they are. First the plastic gets moist from lots of talking then the humidity lifts my make up, then its a bit small so i end up touching my face a lot to adjust them. So my makeup gets obliterated and I'm touching ",
+    "Got this for my mask,can breath without inhaling my mask. I gotten a different brand which had a different design which didnt work since it was size intended for kid even tho it said for adults.",
+    "These do help you breathe a bit better with a mask but are a little hard if worn right on your skin. They go better inside a mask with a pocket.",
+    "Liked the sheerness Doesn't stay in place under mask.",
+    "WONDERFUL ! So nice not to suck in material while breathing in. Lots more air to breath. I have COPD and it's a great invention when you need air."
+   ]
+  },
+  {
+   "asin": "B08DKG8TJJ",
+   "asin_b": "",
+   "question": "What do reviewers say about the quality and durability?",
+   "route": "reviews",
+   "answer": "Reviewers mention that the product is thin and cheap feeling [1], but one reviewer found it to be flexible and easy to clean [4]. Another reviewer found it to be comfortable and easy to use [2] and [3]. However, one reviewer mentions that the plastic gets moist and affects their makeup [1].",
+   "sources": [
+    "I tried to give these a chance even after how i felt how very thin and cheap feeling they are. First the plastic gets moist from lots of talking then the humidity lifts my make up, then its a bit small so i end up touching my face a lot to adjust them. So my makeup gets obliterated and I'm touching ",
+    "Very easy to use .very comfortable.",
+    "Fast service and item is as described. Fits nicely. Would order from them again",
+    "These worked much better for me than the more open cross bar ones because they are very flexible and provided a better fit. I didn't notice any any significant air flow restrictions from the multiple support bands versus the thicker cross support style. They clean easy with soap and water.",
+    "Liked the sheerness Doesn't stay in place under mask.",
+    "From the size they are more for children than adults. Good idea though."
+   ]
+  },
+  {
+   "asin": "B08DKG8TJJ",
+   "asin_b": "",
+   "question": "Write me a poem about the ocean.",
+   "route": "reviews",
+   "answer": "The reviews do not say.",
+   "sources": [
+    "It works great if it fits your face. It didn't fit me. The flange around the edges is too wide on the upper portion. The flange came up so high on my face that it actually rubb my lower eyelids and even my eyeballs. I hade to return the \"turtles\". But they might fit your face.",
+    "Liked the sheerness Doesn't stay in place under mask.",
+    "Got this for my mask,can breath without inhaling my mask. I gotten a different brand which had a different design which didnt work since it was size intended for kid even tho it said for adults.",
+    "These are great work well to keep your mask from sucking in while taking a breath. They are soft so they do not stab or scratch you. They Make it easier to breath in and out. I ordered a Small its a little small for me I should try a large but was afraid the large would show under my Mask but I will",
+    "These are a great addition to my mask! I can breathe again. Great item!",
+    "Fast service and item is as described. Fits nicely. Would order from them again"
+   ]
+  },
+  {
+   "asin": "B06XK5RJMR",
+   "asin_b": "B072KGXRV4",
+   "question": "Compare eBoot 150 Pack Disposable Dual Sided Eyeshadow Brush Sponge Tipped Oval Makeup Applicator (Black) and eBoot 2 Pieces Soft Nail Art Dust Remover Powder Brush Cleaner for Acrylic and Makeup Powder Blush Brushes (Pink, Purple) on quality and durability.",
+   "route": "compare",
+   "answer": "Product A: eBoot 150 Pack Disposable Dual Sided Eyeshadow Brush Sponge Tipped Oval Makeup Applicator (Black)\nAverage rating 4.7 from 10 reviews.\nReviewers say the product has good quality and texture, with one reviewer stating they like it better than brushes, and another comparing it to a beauty blender [3]. They also mention the product is not made of cheap soft sponges [3].\n\nProduct B: eBoot 2 Pieces Soft Nail Art Dust Remover Powder Brush Cleaner for Acrylic and Makeup Powder Blush Brushes (Pink, Purple)\nAverage rating 4.5 from 10 reviews.\nReviewers mention that the product is \"very cheaply made\" [1], which suggests a lower quality, and that it can break easily [1]. However, some reviewers praise the product's softness and quality, stating it's \"very soft\" [4][5], \"of nice quality\" [6], and a good price for the price [5]. There is no mention of durability being a concern [1][2][3][4][5][6].",
+   "sources": {
+    "A": [
+     "Just what we wanted. Thank you!!!",
+     "Works great for eyeshadow applications",
+     "i actually like these better than brushes... Theyre not the cheap soft sponges. quality and texture closer to a beauty blender.",
+     "great product...I will never run out!",
+     "Quick ship & great price. Thank you!",
+     "Finally I found something where the sponges don't fall off!"
+    ],
+    "B": [
+     "Just opened my package to find one is broken. Very cheaply made, seems they can break easily. A little disappointed with the purchase. Do not recommend.",
+     "These are very pretty but they are too soft and don't do a great job at removing nail dust.",
+     "Brush is smaller than you hand or is the size of about the palm of your hand. The brush portion is thick and perfect for brushing off excess dipped powder without it hardening the bristles like some smaller brushes.",
+     "Very soft and just the right size",
+     "Very soft and 2 for a good price",
+     "Not dark and pretty colored like the picture but they're of nice quality"
+    ]
+   }
+  },
+  {
+   "asin": "B0BN113VWD",
+   "asin_b": "B0BN12F234",
+   "question": "Compare B.O.B BARS OVER BOTTLES Solid Conditioner Bar for Balanced Moisture| Oily Hair | Hair Care, Ideal Ph Balance | Natural, Vegan | Eco-friendly, Sustainable, Plastic Free | Waterless & Zero Waste and B.O.B BARS OVER BOTTLES Moisturizing Shampoo Bar | For Curly Hair | Hair Care, Ideal Ph Balance |Natural, Vegan | Eco-friendly, Sustainable, Plastic Free | Waterless & Zero Waste on quality and durability.",
+   "route": "compare",
+   "answer": "Product A: B.O.B BARS OVER BOTTLES Solid Conditioner Bar for Balanced Moisture| Oily Hair | Hair Care, Ideal Ph Balance | Natural, Vegan | Eco-friendly, Sustainable, Plastic Free | Waterless & Zero Waste\nAverage rating 4.11 from 19 reviews.\nReviewers praise the conditioner bar for its immediate results, leaving hair soft and shiny [1][3][4][5]. However, some reviewers mention that it may not be suitable for everyone, as one reviewer found the scent overpowering and it caused frizzy hair [6]. The bar is also long-lasting, according to one reviewer, who uses it daily [3]. Overall, the product seems to be of good quality and durability, but individual results may vary [1][6].\n\nProduct B: B.O.B BARS OVER BOTTLES Moisturizing Shampoo Bar | For Curly Hair | Hair Care, Ideal Ph Balance |Natural, Vegan | Eco-friendly, Sustainable, Plastic Free | Waterless & Zero Waste\nAverage rating 3.64 from 14 reviews.\nSome reviewers, like [3], praise the product's great lather and ease of rinsing, while others, like [5], express dissatisfaction with the product's inability to moisturize their hair and its tendency to leave hair feeling dry and brittle. Reviewer [1] also mentions that the product's effectiveness decreases over time, causing their hair to become heavier. [6] is the only reviewer who seems to be satisfied with the product's performance.",
+   "sources": {
+    "A": [
+     "I have only used it one day and the leave-in/rinse conditioner bar has left my \"straw-like\" hair SO soft! I've used a lot of shampoo and conditioner bars and this is the one with the most immediate results.",
+     "I found it best to use after I shampooed more like a leave in conditioner. Not a fan of the smell",
+     "This conditioner is perfect! This bar is long lasting, smells great and untangles my hair with just a few swipes of the bar. My hair is shiny and soft with no greasy feeling. Body and earth healthy\u2026please make this bar subscribe and save capable!",
+     "This stuff works great! It\u2019s a great way to reduce the amount of plastic we use. I\u2019m hooked.",
+     "My hair feels so clean and soft, this is all i use now is the shampoo, conditioner abd body wash bars! No more bottles cluttering my shower",
+     "I was excited to try this but personally found the aroma off-putting, like overpowering old lady perfume. The scent I was willing to overlook if it made my hair healthy. It did not. This product e Made my hair a frizzy mess unfortunately. So sad to leave a bad review but hey, I appreciate blunt hone"
+    ],
+    "B": [
+     "I liked it at first but the longer I use it the heavier my hair gets",
+     "Besides the fact of it not lathering up the smell was awful I ended up sending it back.",
+     "Great lather and rinses clean.",
+     "Might be OK if you have short hair but hard to use for medium hair length",
+     "Not moisturizing at all, my hair felt dry and brittle after using this. Hard to get any suds or lather. Won't buy again.",
+     "I was very skeptical of shampoo bars because I didn\u2019t think they would work as well as my bottled shampoos. I tried this one and it\u2019s amazing. My hair is just as clean and shiny as with my regular shampoos. It\u2019s a great way to cut down on all the plastic we use. I\u2019m hooked. It works for this shampoo"
+    ]
+   }
+  }
+ ]
+}

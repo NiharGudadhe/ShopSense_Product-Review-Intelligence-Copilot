@@ -1,0 +1,11 @@
+pandas
+numpy
+pyarrow
+requests
+pydantic
+fastapi
+uvicorn
+langgraph
+lancedb
+rank-bm25
+sentence-transformers
